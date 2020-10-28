@@ -35,7 +35,7 @@ def XO(txt:str) -> bool:
 #    Loop over each character in the string
 for char in txt:
         #   do a check if it contains an 'x'
-        if char = 'x'
+        if char == 'x'
         #      increment the x counter
             x_counter += 1
         # do a check if it contains an 'o'
